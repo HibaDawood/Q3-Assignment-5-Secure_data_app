@@ -174,7 +174,7 @@ st.sidebar.markdown(f"**Stored Entries:** {len(st.session_state.stored_data)}")
 
 # Footer
 st.markdown("---")
-st.caption("🛡️ Secure Data Encryption System | Python Assignment")
+
 
 # For demonstration purposes
 print("System Status:")
