@@ -128,7 +128,7 @@ elif choice == "Retrieve Data":
                 st.success("✅ Data decrypted successfully!")
                 st.markdown("### Your Decrypted Data:")
                 st.markdown(f"""
-                <div style="padding: 15px; border-radius: 5px; background-color: #8f95a3;">
+                <div style="padding: 15px; border-radius: 5px; background-color: #7AE2CF;">
                 {decrypted_text}
                 </div>
                 """, unsafe_allow_html=True)
